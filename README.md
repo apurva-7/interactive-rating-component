@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot1.jpg)
-![](./images/Screenshot2.jpg)
+(./images/Screenshot1.jpg)
+(./images/Screenshot2.jpg)
 
 ### Links
 
@@ -49,8 +49,6 @@ Users should be able to:
 -   Flexbox
 -   CSS Grid
 -   Mobile-first workflow
-
-=======
 -   Jscript
 
 ### Useful resources
