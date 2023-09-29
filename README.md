@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot1.jpg)
-![](./Screenshot2.jpg)
+![](https://github.com/apurva-7/interactive-rating-component/blob/master/images/Screenshot%201.png)
+![](https://github.com/apurva-7/interactive-rating-component/blob/master/images/Screenshot%202.png)
 
 ### Links
 
