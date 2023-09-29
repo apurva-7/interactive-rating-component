@@ -30,8 +30,13 @@ Users should be able to:
 
 ### Links
 
+<<<<<<< HEAD
 -   Solution URL: [Add solution URL here](https://github.com/apurva-7/results-summary-component-main)
 -   Live Site URL: [Add live site URL here](https://apurva-7.github.io/results-summary-component-main/)
+=======
+-   Solution URL: (https://github.com/apurva-7/interactive-rating-component)
+-   Live Site URL: (https://apurva-7.github.io/interactive-rating-component/)
+>>>>>>> fc77d639f0ad7b515ae935938f907690fbe113d6
 
 ## My process
 
@@ -44,6 +49,10 @@ Users should be able to:
 -   Flexbox
 -   CSS Grid
 -   Mobile-first workflow
+<<<<<<< HEAD
+=======
+-   Jscript
+>>>>>>> fc77d639f0ad7b515ae935938f907690fbe113d6
 
 ### Useful resources
 
@@ -51,3 +60,7 @@ Users should be able to:
 -   (https://yoksel.github.io/flex-cheatsheet/) - Always a backup to remember flexbox in an interactive way.
 -   (https://developer.mozilla.org/en-US/) - Great documentation
 -   (https://www.udemy.com/course/the-web-developer-bootcamp/) - Amazing and extensive course on html and css.
+<<<<<<< HEAD
+=======
+
+>>>>>>> fc77d639f0ad7b515ae935938f907690fbe113d6
