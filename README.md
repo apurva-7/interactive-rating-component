@@ -25,14 +25,10 @@ Users should be able to:
 
 ### Screenshot
 
-(./images/Screenshot1.jpg)
-(./images/Screenshot2.jpg)
+![](./Screenshot1.jpg)
+![](./Screenshot2.jpg)
 
 ### Links
-
-
--   Solution URL: [Add solution URL here](https://github.com/apurva-7/results-summary-component-main)
--   Live Site URL: [Add live site URL here](https://apurva-7.github.io/results-summary-component-main/)
 
 -   Solution URL: (https://github.com/apurva-7/interactive-rating-component)
 -   Live Site URL: (https://apurva-7.github.io/interactive-rating-component/)
